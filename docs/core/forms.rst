@@ -33,6 +33,8 @@ added to your policy configuration. For example:
     - ... # other policies
     - name: RulePolicy
 
+.. _forms-domain:
+
 Defining a Form
 ~~~~~~~~~~~~~~~
 
