@@ -1,19 +1,29 @@
 import logging
 from collections import defaultdict
-from typing import Set, Text, Optional
+from typing import Set, Text, Optional, Dict, Any
+
+from packaging import version
+
+import rasa.core.training.story_conflict
+from rasa.constants import (
+    DOCS_URL_DOMAINS,
+    DOCS_URL_ACTIONS,
+    LATEST_TRAINING_DATA_FORMAT_VERSION,
+    DOCS_BASE_URL,
+)
+from rasa.core.constants import UTTER_PREFIX
 from rasa.core.domain import Domain
+from rasa.core.events import ActionExecuted
+from rasa.core.events import UserUttered
 from rasa.core.training.generator import TrainingDataGenerator
+from rasa.core.training.structures import StoryGraph
 from rasa.importers.importer import TrainingDataImporter
 from rasa.nlu.training_data import TrainingData
-from rasa.core.training.structures import StoryGraph
-from rasa.core.events import UserUttered
-from rasa.core.events import ActionExecuted
-from rasa.core.constants import UTTER_PREFIX
-import rasa.core.training.story_conflict
-from rasa.constants import DOCS_URL_DOMAINS, DOCS_URL_ACTIONS
 from rasa.utils.common import raise_warning
 
 logger = logging.getLogger(__name__)
+
+KEY_TRAINING_DATA_FORMAT_VERSION = "version"
 
 
 class Validator:
@@ -257,3 +267,48 @@ class Validator:
         An empty domain is invalid."""
 
         return not self.domain.is_empty()
+
+    @staticmethod
+    def validate_training_data_format_version(
+        yaml_file_content: Dict[Text, Any], filename: Text
+    ) -> bool:
+        """Validates version on the training data content using `version` field
+           and warns users if the file is not compatible with the current version of
+           Rasa Open Source.
+
+        Args:
+            yaml_file_content: Raw content of training data file as a dictionary.
+            filename: Name of the validated file.
+
+        Returns:
+            `True` if the file can be processed by current version of Rasa Open Source,
+            `False` otherwise.
+        """
+        if not isinstance(yaml_file_content, dict):
+            raise ValueError(f"Failed to validate {filename}.")
+
+        version_string = yaml_file_content.get(KEY_TRAINING_DATA_FORMAT_VERSION, "")
+        if not version_string:
+            raise_warning(
+                f"Training data file {filename} doesn't have a "
+                f"'{KEY_TRAINING_DATA_FORMAT_VERSION}' key. "
+                f"Rasa Open Source will read the file as "
+                f"version '{LATEST_TRAINING_DATA_FORMAT_VERSION}' file.",
+                docs=DOCS_BASE_URL,
+            )
+            return True
+
+        if version.parse(LATEST_TRAINING_DATA_FORMAT_VERSION) >= version.parse(
+            version_string
+        ):
+            return True
+        else:
+            raise_warning(
+                f"Training data file {filename} has a greater format version that "
+                f"your Rasa Open Source: "
+                f"{version_string} > {LATEST_TRAINING_DATA_FORMAT_VERSION}. "
+                f"Please consider updating to the latest version of Rasa Open Source."
+                f"This file will be skipped.",
+                docs=DOCS_BASE_URL,
+            )
+            return False
