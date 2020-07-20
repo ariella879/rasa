@@ -1,10 +1,7 @@
 import pytest
 from rasa.validator import Validator
 from rasa.importers.rasa import RasaFileImporter
-from tests.core.conftest import (
-    DEFAULT_STORIES_FILE,
-    DEFAULT_NLU_DATA,
-)
+from tests.core.conftest import DEFAULT_STORIES_FILE, DEFAULT_NLU_DATA
 import rasa.utils.io as io_utils
 
 
