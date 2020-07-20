@@ -1,0 +1,18 @@
+{
+  "id": "nlu/using-nlu-only",
+  "title": "Using NLU Only",
+  "description": "If you want to use Rasa only as an NLU component, you can!",
+  "source": "@site/docs/nlu/using-nlu-only.mdx",
+  "permalink": "/nlu/using-nlu-only",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/nlu/using-nlu-only.mdx",
+  "sidebar_label": "Using NLU Only",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Rasa NLU: Language Understanding for Chatbots and AI assistants",
+    "permalink": "/nlu/about"
+  },
+  "next": {
+    "title": "Training Data Format",
+    "permalink": "/nlu/training-data-format"
+  }
+}

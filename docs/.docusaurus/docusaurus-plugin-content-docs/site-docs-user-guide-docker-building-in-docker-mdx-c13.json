@@ -1,0 +1,9 @@
+{
+  "id": "user-guide/docker/building-in-docker",
+  "title": "Building a Rasa Assistant in Docker",
+  "description": "import variables from '../../variables.json';",
+  "source": "@site/docs/user-guide/docker/building-in-docker.mdx",
+  "permalink": "/user-guide/docker/building-in-docker",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/docker/building-in-docker.mdx",
+  "sidebar_label": "Building a Rasa Assistant in Docker"
+}

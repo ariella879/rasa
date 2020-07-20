@@ -1,0 +1,18 @@
+{
+  "id": "api/tracker",
+  "title": "Tracker",
+  "description": "Trackers maintain the state of a dialogue between the assistant and the user in the form",
+  "source": "@site/docs/api/tracker.mdx",
+  "permalink": "/api/tracker",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/api/tracker.mdx",
+  "sidebar_label": "Tracker",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Events",
+    "permalink": "/api/events"
+  },
+  "next": {
+    "title": "Tracker Stores",
+    "permalink": "/api/tracker-stores"
+  }
+}

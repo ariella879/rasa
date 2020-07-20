@@ -1,0 +1,9 @@
+{
+  "id": "user-guide/connectors/hangouts",
+  "title": "Google Hangouts Chat",
+  "description": "Hangouts Chat Setup",
+  "source": "@site/docs/user-guide/connectors/hangouts.mdx",
+  "permalink": "/user-guide/connectors/hangouts",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/connectors/hangouts.mdx",
+  "sidebar_label": "Google Hangouts Chat"
+}

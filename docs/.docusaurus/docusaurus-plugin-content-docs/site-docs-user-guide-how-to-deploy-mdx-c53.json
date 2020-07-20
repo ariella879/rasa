@@ -1,0 +1,18 @@
+{
+  "id": "user-guide/how-to-deploy",
+  "title": "Deploying Your Rasa Assistant",
+  "description": "import variables from '../variables.json';",
+  "source": "@site/docs/user-guide/how-to-deploy.mdx",
+  "permalink": "/user-guide/how-to-deploy",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/how-to-deploy.mdx",
+  "sidebar_label": "Deploying Your Rasa Assistant",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Configuring the HTTP API",
+    "permalink": "/user-guide/configuring-http-api"
+  },
+  "next": {
+    "title": "Cloud Storage",
+    "permalink": "/user-guide/cloud-storage"
+  }
+}

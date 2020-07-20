@@ -1,0 +1,18 @@
+{
+  "id": "nlu/language-support",
+  "title": "Language Support",
+  "description": "You can use Rasa to build assistants in any language you want! Rasa’s",
+  "source": "@site/docs/nlu/language-support.mdx",
+  "permalink": "/nlu/language-support",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/nlu/language-support.mdx",
+  "sidebar_label": "Language Support",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Training Data Format",
+    "permalink": "/nlu/training-data-format"
+  },
+  "next": {
+    "title": "Choosing a Pipeline",
+    "permalink": "/nlu/choosing-a-pipeline"
+  }
+}

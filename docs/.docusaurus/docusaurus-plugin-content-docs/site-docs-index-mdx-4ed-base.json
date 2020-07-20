@@ -1,0 +1,400 @@
+{
+  "docsSidebars": {
+    "someSidebar": [
+      {
+        "type": "category",
+        "label": "User Guide",
+        "items": [
+          {
+            "type": "link",
+            "label": "Build contextual chatbots and AI assistants with Rasa",
+            "href": "/index"
+          },
+          {
+            "type": "link",
+            "label": "Installation",
+            "href": "/user-guide/installation"
+          },
+          {
+            "type": "link",
+            "label": "Tutorial: Rasa Basics",
+            "href": "/user-guide/rasa-tutorial"
+          },
+          {
+            "type": "link",
+            "label": "Tutorial: Building Assistants",
+            "href": "/user-guide/building-assistants"
+          },
+          {
+            "type": "link",
+            "label": "Command Line Interface",
+            "href": "/user-guide/command-line-interface"
+          },
+          {
+            "type": "link",
+            "label": "Architecture",
+            "href": "/user-guide/architecture"
+          },
+          {
+            "type": "link",
+            "label": "Messaging and Voice Channels",
+            "href": "/user-guide/messaging-and-voice-channels"
+          },
+          {
+            "type": "link",
+            "label": "Testing Your Assistant",
+            "href": "/user-guide/testing-your-assistant"
+          },
+          {
+            "type": "link",
+            "label": "Setting up CI/CD",
+            "href": "/user-guide/setting-up-ci-cd"
+          },
+          {
+            "type": "link",
+            "label": "Validate Data",
+            "href": "/user-guide/validate-files"
+          },
+          {
+            "type": "link",
+            "label": "Configuring the HTTP API",
+            "href": "/user-guide/configuring-http-api"
+          },
+          {
+            "type": "link",
+            "label": "Deploying Your Rasa Assistant",
+            "href": "/user-guide/how-to-deploy"
+          },
+          {
+            "type": "link",
+            "label": "Cloud Storage",
+            "href": "/user-guide/cloud-storage"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "NLU",
+        "items": [
+          {
+            "type": "link",
+            "label": "Rasa NLU: Language Understanding for Chatbots and AI assistants",
+            "href": "/nlu/about"
+          },
+          {
+            "type": "link",
+            "label": "Using NLU Only",
+            "href": "/nlu/using-nlu-only"
+          },
+          {
+            "type": "link",
+            "label": "Training Data Format",
+            "href": "/nlu/training-data-format"
+          },
+          {
+            "type": "link",
+            "label": "Language Support",
+            "href": "/nlu/language-support"
+          },
+          {
+            "type": "link",
+            "label": "Choosing a Pipeline",
+            "href": "/nlu/choosing-a-pipeline"
+          },
+          {
+            "type": "link",
+            "label": "Components",
+            "href": "/nlu/components"
+          },
+          {
+            "type": "link",
+            "label": "Entity Extraction",
+            "href": "/nlu/entity-extraction"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Core",
+        "items": [
+          {
+            "type": "link",
+            "label": "The Rasa Core Dialogue Engine",
+            "href": "/core/about"
+          },
+          {
+            "type": "link",
+            "label": "Stories",
+            "href": "/core/stories"
+          },
+          {
+            "type": "link",
+            "label": "Domains",
+            "href": "/core/domains"
+          },
+          {
+            "type": "link",
+            "label": "Responses",
+            "href": "/core/responses"
+          },
+          {
+            "type": "link",
+            "label": "Actions",
+            "href": "/core/actions"
+          },
+          {
+            "type": "link",
+            "label": "Reminders and External Events",
+            "href": "/core/reminders-and-external-events"
+          },
+          {
+            "type": "link",
+            "label": "Policies",
+            "href": "/core/policies"
+          },
+          {
+            "type": "link",
+            "label": "Slots",
+            "href": "/core/slots"
+          },
+          {
+            "type": "link",
+            "label": "Forms",
+            "href": "/core/forms"
+          },
+          {
+            "type": "link",
+            "label": "Retrieval Actions",
+            "href": "/core/retrieval-actions"
+          },
+          {
+            "type": "link",
+            "label": "Interactive Learning",
+            "href": "/core/interactive-learning"
+          },
+          {
+            "type": "link",
+            "label": "Fallback Actions",
+            "href": "/core/fallback-actions"
+          },
+          {
+            "type": "link",
+            "label": "Knowledge Base Actions",
+            "href": "/core/knowledge-bases"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Conversation Design",
+        "items": [
+          {
+            "type": "link",
+            "label": "Dialogue Elements",
+            "href": "/dialogue-elements/dialogue-elements"
+          },
+          {
+            "type": "link",
+            "label": "Small Talk",
+            "href": "/dialogue-elements/small-talk"
+          },
+          {
+            "type": "link",
+            "label": "Completing Tasks",
+            "href": "/dialogue-elements/completing-tasks"
+          },
+          {
+            "type": "link",
+            "label": "Guiding Users",
+            "href": "/dialogue-elements/guiding-users"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "API Reference",
+        "items": [
+          {
+            "type": "link",
+            "label": "Action Server",
+            "href": "/api/action-server"
+          },
+          {
+            "type": "link",
+            "label": "HTTP API",
+            "href": "/api/http-api"
+          },
+          {
+            "type": "link",
+            "label": "Jupyter Notebooks",
+            "href": "/api/jupyter-notebooks"
+          },
+          {
+            "type": "link",
+            "label": "Agent",
+            "href": "/api/agent"
+          },
+          {
+            "type": "link",
+            "label": "Custom NLU Components",
+            "href": "/api/custom-nlu-components"
+          },
+          {
+            "type": "link",
+            "label": "Rasa SDK",
+            "href": "/api/rasa-sdk"
+          },
+          {
+            "type": "link",
+            "label": "Events",
+            "href": "/api/events"
+          },
+          {
+            "type": "link",
+            "label": "Tracker",
+            "href": "/api/tracker"
+          },
+          {
+            "type": "link",
+            "label": "Tracker Stores",
+            "href": "/api/tracker-stores"
+          },
+          {
+            "type": "link",
+            "label": "Event Brokers",
+            "href": "/api/event-brokers"
+          },
+          {
+            "type": "link",
+            "label": "Lock Stores",
+            "href": "/api/lock-stores"
+          },
+          {
+            "type": "link",
+            "label": "Training Data Importers",
+            "href": "/api/training-data-importers"
+          },
+          {
+            "type": "link",
+            "label": "Featurization of Conversations",
+            "href": "/api/core-featurization"
+          },
+          {
+            "type": "link",
+            "label": "TensorFlow Configuration",
+            "href": "/api/tensorflow_usage"
+          },
+          {
+            "type": "link",
+            "label": "Migration Guide",
+            "href": "/migration-guide"
+          },
+          {
+            "type": "link",
+            "label": "Rasa Open Source Change Log",
+            "href": "/changelog"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Migrate from (beta)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Rasa as open source alternative to Google Dialogflow - Migration Guide",
+            "href": "/migrate-from/google-dialogflow-to-rasa"
+          },
+          {
+            "type": "link",
+            "label": "Rasa as open source alternative to Facebook’s Wit.ai - Migration Guide",
+            "href": "/migrate-from/facebook-wit-ai-to-rasa"
+          },
+          {
+            "type": "link",
+            "label": "Rasa as open source alternative to Microsoft LUIS - Migration Guide",
+            "href": "/migrate-from/microsoft-luis-to-rasa"
+          },
+          {
+            "type": "link",
+            "label": "Rasa as open source alternative to IBM Watson - Migration Tips",
+            "href": "/migrate-from/ibm-watson-to-rasa"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Reference",
+        "items": [
+          {
+            "type": "link",
+            "label": "Glossary",
+            "href": "/glossary"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/api/action-server": "someSidebar",
+    "/api/agent": "someSidebar",
+    "/api/core-featurization": "someSidebar",
+    "/api/custom-nlu-components": "someSidebar",
+    "/api/event-brokers": "someSidebar",
+    "/api/events": "someSidebar",
+    "/api/http-api": "someSidebar",
+    "/api/jupyter-notebooks": "someSidebar",
+    "/api/lock-stores": "someSidebar",
+    "/api/rasa-sdk": "someSidebar",
+    "/api/tensorflow_usage": "someSidebar",
+    "/api/tracker": "someSidebar",
+    "/api/tracker-stores": "someSidebar",
+    "/api/training-data-importers": "someSidebar",
+    "/changelog": "someSidebar",
+    "/core/about": "someSidebar",
+    "/core/actions": "someSidebar",
+    "/core/domains": "someSidebar",
+    "/core/fallback-actions": "someSidebar",
+    "/core/forms": "someSidebar",
+    "/core/interactive-learning": "someSidebar",
+    "/core/knowledge-bases": "someSidebar",
+    "/core/policies": "someSidebar",
+    "/core/reminders-and-external-events": "someSidebar",
+    "/core/responses": "someSidebar",
+    "/core/retrieval-actions": "someSidebar",
+    "/core/slots": "someSidebar",
+    "/core/stories": "someSidebar",
+    "/dialogue-elements/completing-tasks": "someSidebar",
+    "/dialogue-elements/dialogue-elements": "someSidebar",
+    "/dialogue-elements/guiding-users": "someSidebar",
+    "/dialogue-elements/small-talk": "someSidebar",
+    "/glossary": "someSidebar",
+    "/index": "someSidebar",
+    "/migrate-from/facebook-wit-ai-to-rasa": "someSidebar",
+    "/migrate-from/google-dialogflow-to-rasa": "someSidebar",
+    "/migrate-from/ibm-watson-to-rasa": "someSidebar",
+    "/migrate-from/microsoft-luis-to-rasa": "someSidebar",
+    "/migration-guide": "someSidebar",
+    "/nlu/about": "someSidebar",
+    "/nlu/choosing-a-pipeline": "someSidebar",
+    "/nlu/components": "someSidebar",
+    "/nlu/entity-extraction": "someSidebar",
+    "/nlu/language-support": "someSidebar",
+    "/nlu/training-data-format": "someSidebar",
+    "/nlu/using-nlu-only": "someSidebar",
+    "/user-guide/architecture": "someSidebar",
+    "/user-guide/building-assistants": "someSidebar",
+    "/user-guide/cloud-storage": "someSidebar",
+    "/user-guide/command-line-interface": "someSidebar",
+    "/user-guide/configuring-http-api": "someSidebar",
+    "/user-guide/how-to-deploy": "someSidebar",
+    "/user-guide/installation": "someSidebar",
+    "/user-guide/messaging-and-voice-channels": "someSidebar",
+    "/user-guide/rasa-tutorial": "someSidebar",
+    "/user-guide/setting-up-ci-cd": "someSidebar",
+    "/user-guide/testing-your-assistant": "someSidebar",
+    "/user-guide/validate-files": "someSidebar"
+  },
+  "isHomePage": true,
+  "homePagePath": "/index"
+}

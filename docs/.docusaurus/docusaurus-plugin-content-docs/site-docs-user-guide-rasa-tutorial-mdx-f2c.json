@@ -1,0 +1,18 @@
+{
+  "id": "user-guide/rasa-tutorial",
+  "title": "Tutorial: Rasa Basics",
+  "description": "This page explains the basics of building an assistant with Rasa and",
+  "source": "@site/docs/user-guide/rasa-tutorial.mdx",
+  "permalink": "/user-guide/rasa-tutorial",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/rasa-tutorial.mdx",
+  "sidebar_label": "Tutorial: Rasa Basics",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/user-guide/installation"
+  },
+  "next": {
+    "title": "Tutorial: Building Assistants",
+    "permalink": "/user-guide/building-assistants"
+  }
+}

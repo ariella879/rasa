@@ -1,0 +1,18 @@
+{
+  "id": "nlu/choosing-a-pipeline",
+  "title": "Choosing a Pipeline",
+  "description": "In Rasa Open Source, incoming messages are processed by a sequence of components.",
+  "source": "@site/docs/nlu/choosing-a-pipeline.mdx",
+  "permalink": "/nlu/choosing-a-pipeline",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/nlu/choosing-a-pipeline.mdx",
+  "sidebar_label": "Choosing a Pipeline",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Language Support",
+    "permalink": "/nlu/language-support"
+  },
+  "next": {
+    "title": "Components",
+    "permalink": "/nlu/components"
+  }
+}

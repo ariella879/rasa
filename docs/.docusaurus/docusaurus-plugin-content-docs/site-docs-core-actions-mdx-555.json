@@ -1,0 +1,18 @@
+{
+  "id": "core/actions",
+  "title": "Actions",
+  "description": "Actions are the things your bot runs in response to user input.",
+  "source": "@site/docs/core/actions.mdx",
+  "permalink": "/core/actions",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/core/actions.mdx",
+  "sidebar_label": "Actions",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Responses",
+    "permalink": "/core/responses"
+  },
+  "next": {
+    "title": "Reminders and External Events",
+    "permalink": "/core/reminders-and-external-events"
+  }
+}

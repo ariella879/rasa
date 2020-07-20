@@ -1,0 +1,9 @@
+{
+  "id": "user-guide/connectors/telegram",
+  "title": "Telegram",
+  "description": "You first have to create a Telegram bot to get credentials.",
+  "source": "@site/docs/user-guide/connectors/telegram.mdx",
+  "permalink": "/user-guide/connectors/telegram",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/connectors/telegram.mdx",
+  "sidebar_label": "Telegram"
+}

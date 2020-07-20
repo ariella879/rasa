@@ -1,0 +1,9 @@
+{
+  "id": "user-guide/connectors/rocketchat",
+  "title": "RocketChat",
+  "description": "Getting Credentials",
+  "source": "@site/docs/user-guide/connectors/rocketchat.mdx",
+  "permalink": "/user-guide/connectors/rocketchat",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/connectors/rocketchat.mdx",
+  "sidebar_label": "RocketChat"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "user-guide/connectors/cisco-webex-teams",
+  "title": "Cisco Webex Teams",
+  "description": "You first have to create a cisco webex app to get credentials.",
+  "source": "@site/docs/user-guide/connectors/cisco-webex-teams.mdx",
+  "permalink": "/user-guide/connectors/cisco-webex-teams",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/connectors/cisco-webex-teams.mdx",
+  "sidebar_label": "Cisco Webex Teams"
+}

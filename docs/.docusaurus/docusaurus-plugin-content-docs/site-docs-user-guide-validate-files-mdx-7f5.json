@@ -1,0 +1,18 @@
+{
+  "id": "user-guide/validate-files",
+  "title": "Validate Data",
+  "description": "Test Domain and Data Files for Mistakes",
+  "source": "@site/docs/user-guide/validate-files.mdx",
+  "permalink": "/user-guide/validate-files",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/validate-files.mdx",
+  "sidebar_label": "Validate Data",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Setting up CI/CD",
+    "permalink": "/user-guide/setting-up-ci-cd"
+  },
+  "next": {
+    "title": "Configuring the HTTP API",
+    "permalink": "/user-guide/configuring-http-api"
+  }
+}

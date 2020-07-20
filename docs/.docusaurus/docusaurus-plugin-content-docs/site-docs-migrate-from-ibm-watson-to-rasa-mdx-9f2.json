@@ -1,0 +1,18 @@
+{
+  "id": "migrate-from/ibm-watson-to-rasa",
+  "title": "Rasa as open source alternative to IBM Watson - Migration Tips",
+  "description": "There is no support for IBM Watson yet. However, a group of community members is working on a way to use exported IBM Watson workspaces in Rasa. If you're interested in that, check out our Community Forum.At Rasa, we hear a few different reasons why developers switch from cloud-based tools like IBM Watson:",
+  "source": "@site/docs/migrate-from/ibm-watson-to-rasa.mdx",
+  "permalink": "/migrate-from/ibm-watson-to-rasa",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/migrate-from/ibm-watson-to-rasa.mdx",
+  "sidebar_label": "Rasa as open source alternative to IBM Watson - Migration Tips",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Rasa as open source alternative to Microsoft LUIS - Migration Guide",
+    "permalink": "/migrate-from/microsoft-luis-to-rasa"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/glossary"
+  }
+}

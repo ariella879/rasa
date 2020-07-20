@@ -1,0 +1,18 @@
+{
+  "id": "user-guide/architecture",
+  "title": "Architecture",
+  "description": "Message Handling",
+  "source": "@site/docs/user-guide/architecture.mdx",
+  "permalink": "/user-guide/architecture",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/architecture.mdx",
+  "sidebar_label": "Architecture",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Command Line Interface",
+    "permalink": "/user-guide/command-line-interface"
+  },
+  "next": {
+    "title": "Messaging and Voice Channels",
+    "permalink": "/user-guide/messaging-and-voice-channels"
+  }
+}

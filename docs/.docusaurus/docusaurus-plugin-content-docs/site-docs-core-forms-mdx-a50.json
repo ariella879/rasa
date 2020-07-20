@@ -1,0 +1,18 @@
+{
+  "id": "core/forms",
+  "title": "Forms",
+  "description": "There is an in-depth tutorial here about how to use Rasa Forms for slot filling.",
+  "source": "@site/docs/core/forms.mdx",
+  "permalink": "/core/forms",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/core/forms.mdx",
+  "sidebar_label": "Forms",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Slots",
+    "permalink": "/core/slots"
+  },
+  "next": {
+    "title": "Retrieval Actions",
+    "permalink": "/core/retrieval-actions"
+  }
+}

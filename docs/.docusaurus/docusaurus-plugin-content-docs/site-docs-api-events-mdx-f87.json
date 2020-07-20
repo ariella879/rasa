@@ -1,0 +1,18 @@
+{
+  "id": "api/events",
+  "title": "Events",
+  "description": "Conversations in Rasa are represented as a sequence of events.",
+  "source": "@site/docs/api/events.mdx",
+  "permalink": "/api/events",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/api/events.mdx",
+  "sidebar_label": "Events",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Rasa SDK",
+    "permalink": "/api/rasa-sdk"
+  },
+  "next": {
+    "title": "Tracker",
+    "permalink": "/api/tracker"
+  }
+}

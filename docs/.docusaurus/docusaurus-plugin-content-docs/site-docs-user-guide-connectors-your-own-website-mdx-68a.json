@@ -1,0 +1,9 @@
+{
+  "id": "user-guide/connectors/your-own-website",
+  "title": "Your Own Website",
+  "description": "If you just want an easy way for users to test your bot, the best option",
+  "source": "@site/docs/user-guide/connectors/your-own-website.mdx",
+  "permalink": "/user-guide/connectors/your-own-website",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/connectors/your-own-website.mdx",
+  "sidebar_label": "Your Own Website"
+}

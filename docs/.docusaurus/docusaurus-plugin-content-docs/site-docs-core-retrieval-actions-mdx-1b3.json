@@ -1,0 +1,18 @@
+{
+  "id": "core/retrieval-actions",
+  "title": "Retrieval Actions",
+  "description": "This feature is experimental.",
+  "source": "@site/docs/core/retrieval-actions.mdx",
+  "permalink": "/core/retrieval-actions",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/core/retrieval-actions.mdx",
+  "sidebar_label": "Retrieval Actions",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Forms",
+    "permalink": "/core/forms"
+  },
+  "next": {
+    "title": "Interactive Learning",
+    "permalink": "/core/interactive-learning"
+  }
+}

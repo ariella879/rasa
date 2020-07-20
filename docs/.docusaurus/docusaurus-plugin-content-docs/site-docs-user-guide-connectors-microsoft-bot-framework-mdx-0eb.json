@@ -1,0 +1,9 @@
+{
+  "id": "user-guide/connectors/microsoft-bot-framework",
+  "title": "Microsoft Bot Framework",
+  "description": "You first have to create a Microsoft app to get credentials.",
+  "source": "@site/docs/user-guide/connectors/microsoft-bot-framework.mdx",
+  "permalink": "/user-guide/connectors/microsoft-bot-framework",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/connectors/microsoft-bot-framework.mdx",
+  "sidebar_label": "Microsoft Bot Framework"
+}

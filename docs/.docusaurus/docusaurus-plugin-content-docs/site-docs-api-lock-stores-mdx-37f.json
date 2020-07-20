@@ -1,0 +1,18 @@
+{
+  "id": "api/lock-stores",
+  "title": "Lock Stores",
+  "description": "Rasa uses a ticket lock mechanism to ensure that incoming messages for a given",
+  "source": "@site/docs/api/lock-stores.mdx",
+  "permalink": "/api/lock-stores",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/api/lock-stores.mdx",
+  "sidebar_label": "Lock Stores",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Event Brokers",
+    "permalink": "/api/event-brokers"
+  },
+  "next": {
+    "title": "Training Data Importers",
+    "permalink": "/api/training-data-importers"
+  }
+}

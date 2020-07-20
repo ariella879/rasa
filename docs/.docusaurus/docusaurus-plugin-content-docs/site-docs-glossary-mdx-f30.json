@@ -1,0 +1,14 @@
+{
+  "id": "glossary",
+  "title": "Glossary",
+  "description": "Action",
+  "source": "@site/docs/glossary.mdx",
+  "permalink": "/glossary",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/glossary.mdx",
+  "sidebar_label": "Glossary",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Rasa as open source alternative to IBM Watson - Migration Tips",
+    "permalink": "/migrate-from/ibm-watson-to-rasa"
+  }
+}

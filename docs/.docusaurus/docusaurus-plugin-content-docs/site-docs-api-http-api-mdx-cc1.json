@@ -1,0 +1,17 @@
+{
+  "id": "api/http-api",
+  "title": "HTTP API",
+  "source": "@site/docs/api/http-api.mdx",
+  "permalink": "/api/http-api",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/api/http-api.mdx",
+  "sidebar_label": "HTTP API",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Action Server",
+    "permalink": "/api/action-server"
+  },
+  "next": {
+    "title": "Jupyter Notebooks",
+    "permalink": "/api/jupyter-notebooks"
+  }
+}

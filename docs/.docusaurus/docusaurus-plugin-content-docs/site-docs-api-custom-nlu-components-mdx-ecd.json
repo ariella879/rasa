@@ -1,0 +1,18 @@
+{
+  "id": "api/custom-nlu-components",
+  "title": "Custom NLU Components",
+  "description": "You can create a custom component to perform a specific task which NLU doesn’t currently offer (for example, sentiment analysis).",
+  "source": "@site/docs/api/custom-nlu-components.mdx",
+  "permalink": "/api/custom-nlu-components",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/api/custom-nlu-components.mdx",
+  "sidebar_label": "Custom NLU Components",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Agent",
+    "permalink": "/api/agent"
+  },
+  "next": {
+    "title": "Rasa SDK",
+    "permalink": "/api/rasa-sdk"
+  }
+}

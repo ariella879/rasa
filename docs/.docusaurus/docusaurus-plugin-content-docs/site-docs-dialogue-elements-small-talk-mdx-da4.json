@@ -1,0 +1,18 @@
+{
+  "id": "dialogue-elements/small-talk",
+  "title": "Small Talk",
+  "description": "Small talk includes the back-and-forth that makes conversations natural,",
+  "source": "@site/docs/dialogue-elements/small-talk.mdx",
+  "permalink": "/dialogue-elements/small-talk",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/dialogue-elements/small-talk.mdx",
+  "sidebar_label": "Small Talk",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Dialogue Elements",
+    "permalink": "/dialogue-elements/dialogue-elements"
+  },
+  "next": {
+    "title": "Completing Tasks",
+    "permalink": "/dialogue-elements/completing-tasks"
+  }
+}

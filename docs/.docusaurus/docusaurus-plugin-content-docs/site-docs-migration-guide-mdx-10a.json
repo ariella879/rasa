@@ -1,0 +1,18 @@
+{
+  "id": "migration-guide",
+  "title": "Migration Guide",
+  "description": "This page contains information about changes between major versions and",
+  "source": "@site/docs/migration-guide.mdx",
+  "permalink": "/migration-guide",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/migration-guide.mdx",
+  "sidebar_label": "Migration Guide",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "TensorFlow Configuration",
+    "permalink": "/api/tensorflow_usage"
+  },
+  "next": {
+    "title": "Rasa Open Source Change Log",
+    "permalink": "/changelog"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "user-guide/setting-up-ci-cd",
+  "title": "Setting up CI/CD",
+  "description": "Even though developing a contextual assistant is different from developing traditional",
+  "source": "@site/docs/user-guide/setting-up-ci-cd.mdx",
+  "permalink": "/user-guide/setting-up-ci-cd",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/setting-up-ci-cd.mdx",
+  "sidebar_label": "Setting up CI/CD",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Testing Your Assistant",
+    "permalink": "/user-guide/testing-your-assistant"
+  },
+  "next": {
+    "title": "Validate Data",
+    "permalink": "/user-guide/validate-files"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "migrate-from/facebook-wit-ai-to-rasa",
+  "title": "Rasa as open source alternative to Facebook’s Wit.ai - Migration Guide",
+  "description": "This guide shows you how to migrate your application built with Facebook’s Wit.ai to Rasa. Here are a few reasons why we see developers switching:",
+  "source": "@site/docs/migrate-from/facebook-wit-ai-to-rasa.mdx",
+  "permalink": "/migrate-from/facebook-wit-ai-to-rasa",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/migrate-from/facebook-wit-ai-to-rasa.mdx",
+  "sidebar_label": "Rasa as open source alternative to Facebook’s Wit.ai - Migration Guide",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Rasa as open source alternative to Google Dialogflow - Migration Guide",
+    "permalink": "/migrate-from/google-dialogflow-to-rasa"
+  },
+  "next": {
+    "title": "Rasa as open source alternative to Microsoft LUIS - Migration Guide",
+    "permalink": "/migrate-from/microsoft-luis-to-rasa"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "api/jupyter-notebooks",
+  "title": "Jupyter Notebooks",
+  "description": "This page contains the most important methods for using Rasa in a Jupyter notebook.",
+  "source": "@site/docs/api/jupyter-notebooks.mdx",
+  "permalink": "/api/jupyter-notebooks",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/api/jupyter-notebooks.mdx",
+  "sidebar_label": "Jupyter Notebooks",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "HTTP API",
+    "permalink": "/api/http-api"
+  },
+  "next": {
+    "title": "Agent",
+    "permalink": "/api/agent"
+  }
+}

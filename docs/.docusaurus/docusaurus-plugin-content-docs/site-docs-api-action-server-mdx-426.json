@@ -1,0 +1,17 @@
+{
+  "id": "api/action-server",
+  "title": "Action Server",
+  "source": "@site/docs/api/action-server.mdx",
+  "permalink": "/api/action-server",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/api/action-server.mdx",
+  "sidebar_label": "Action Server",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Guiding Users",
+    "permalink": "/dialogue-elements/guiding-users"
+  },
+  "next": {
+    "title": "HTTP API",
+    "permalink": "/api/http-api"
+  }
+}

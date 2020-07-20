@@ -1,0 +1,18 @@
+{
+  "id": "nlu/components",
+  "title": "Components",
+  "description": "This is a reference of the configuration options for every built-in",
+  "source": "@site/docs/nlu/components.mdx",
+  "permalink": "/nlu/components",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/nlu/components.mdx",
+  "sidebar_label": "Components",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Choosing a Pipeline",
+    "permalink": "/nlu/choosing-a-pipeline"
+  },
+  "next": {
+    "title": "Entity Extraction",
+    "permalink": "/nlu/entity-extraction"
+  }
+}

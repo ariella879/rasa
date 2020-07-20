@@ -1,0 +1,18 @@
+{
+  "id": "migrate-from/google-dialogflow-to-rasa",
+  "title": "Rasa as open source alternative to Google Dialogflow - Migration Guide",
+  "description": "This guide shows you how to migrate your application built with Google Dialogflow to Rasa. Here are a few reasons why we see developers switching:",
+  "source": "@site/docs/migrate-from/google-dialogflow-to-rasa.mdx",
+  "permalink": "/migrate-from/google-dialogflow-to-rasa",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/migrate-from/google-dialogflow-to-rasa.mdx",
+  "sidebar_label": "Rasa as open source alternative to Google Dialogflow - Migration Guide",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Rasa Open Source Change Log",
+    "permalink": "/changelog"
+  },
+  "next": {
+    "title": "Rasa as open source alternative to Facebook’s Wit.ai - Migration Guide",
+    "permalink": "/migrate-from/facebook-wit-ai-to-rasa"
+  }
+}

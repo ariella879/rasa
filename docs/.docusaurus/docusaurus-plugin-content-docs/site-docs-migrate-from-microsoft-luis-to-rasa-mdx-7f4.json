@@ -1,0 +1,18 @@
+{
+  "id": "migrate-from/microsoft-luis-to-rasa",
+  "title": "Rasa as open source alternative to Microsoft LUIS - Migration Guide",
+  "description": "This guide shows you how to migrate your application built with Microsoft LUIS to Rasa. Here are a few reasons why we see developers switching:",
+  "source": "@site/docs/migrate-from/microsoft-luis-to-rasa.mdx",
+  "permalink": "/migrate-from/microsoft-luis-to-rasa",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/migrate-from/microsoft-luis-to-rasa.mdx",
+  "sidebar_label": "Rasa as open source alternative to Microsoft LUIS - Migration Guide",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Rasa as open source alternative to Facebook’s Wit.ai - Migration Guide",
+    "permalink": "/migrate-from/facebook-wit-ai-to-rasa"
+  },
+  "next": {
+    "title": "Rasa as open source alternative to IBM Watson - Migration Tips",
+    "permalink": "/migrate-from/ibm-watson-to-rasa"
+  }
+}

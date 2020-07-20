@@ -1,0 +1,9 @@
+{
+  "id": "user-guide/connectors/twilio",
+  "title": "Twilio",
+  "description": "You can use the Twilio connector to deploy an assistant that is available over text message.",
+  "source": "@site/docs/user-guide/connectors/twilio.mdx",
+  "permalink": "/user-guide/connectors/twilio",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/connectors/twilio.mdx",
+  "sidebar_label": "Twilio"
+}

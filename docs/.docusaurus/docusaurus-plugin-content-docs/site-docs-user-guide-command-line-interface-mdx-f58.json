@@ -1,0 +1,18 @@
+{
+  "id": "user-guide/command-line-interface",
+  "title": "Command Line Interface",
+  "description": "Cheat Sheet",
+  "source": "@site/docs/user-guide/command-line-interface.mdx",
+  "permalink": "/user-guide/command-line-interface",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/command-line-interface.mdx",
+  "sidebar_label": "Command Line Interface",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Tutorial: Building Assistants",
+    "permalink": "/user-guide/building-assistants"
+  },
+  "next": {
+    "title": "Architecture",
+    "permalink": "/user-guide/architecture"
+  }
+}

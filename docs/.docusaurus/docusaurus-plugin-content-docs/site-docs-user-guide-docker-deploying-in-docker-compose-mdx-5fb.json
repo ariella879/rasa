@@ -1,0 +1,9 @@
+{
+  "id": "user-guide/docker/deploying-in-docker-compose",
+  "title": "Deploying a Rasa Open Source Assistant in Docker Compose",
+  "description": "import variables from '../../variables.json';",
+  "source": "@site/docs/user-guide/docker/deploying-in-docker-compose.mdx",
+  "permalink": "/user-guide/docker/deploying-in-docker-compose",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/docker/deploying-in-docker-compose.mdx",
+  "sidebar_label": "Deploying a Rasa Open Source Assistant in Docker Compose"
+}

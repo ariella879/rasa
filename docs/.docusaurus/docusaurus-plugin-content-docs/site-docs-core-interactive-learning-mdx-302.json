@@ -1,0 +1,18 @@
+{
+  "id": "core/interactive-learning",
+  "title": "Interactive Learning",
+  "description": "This page shows how to use interactive learning on the command line.",
+  "source": "@site/docs/core/interactive-learning.mdx",
+  "permalink": "/core/interactive-learning",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/core/interactive-learning.mdx",
+  "sidebar_label": "Interactive Learning",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Retrieval Actions",
+    "permalink": "/core/retrieval-actions"
+  },
+  "next": {
+    "title": "Fallback Actions",
+    "permalink": "/core/fallback-actions"
+  }
+}

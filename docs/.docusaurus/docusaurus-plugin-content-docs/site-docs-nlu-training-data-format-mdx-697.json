@@ -1,0 +1,18 @@
+{
+  "id": "nlu/training-data-format",
+  "title": "Training Data Format",
+  "description": "Data Formats",
+  "source": "@site/docs/nlu/training-data-format.mdx",
+  "permalink": "/nlu/training-data-format",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/nlu/training-data-format.mdx",
+  "sidebar_label": "Training Data Format",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Using NLU Only",
+    "permalink": "/nlu/using-nlu-only"
+  },
+  "next": {
+    "title": "Language Support",
+    "permalink": "/nlu/language-support"
+  }
+}

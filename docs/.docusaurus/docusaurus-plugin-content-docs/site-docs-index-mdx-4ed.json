@@ -1,0 +1,14 @@
+{
+  "id": "index",
+  "title": "Build contextual chatbots and AI assistants with Rasa",
+  "description": "import variables from './variables.json';",
+  "source": "@site/docs/index.mdx",
+  "permalink": "/index",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/index.mdx",
+  "sidebar_label": "Build contextual chatbots and AI assistants with Rasa",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Installation",
+    "permalink": "/user-guide/installation"
+  }
+}

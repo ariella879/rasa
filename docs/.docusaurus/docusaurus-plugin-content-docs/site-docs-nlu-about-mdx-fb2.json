@@ -1,0 +1,18 @@
+{
+  "id": "nlu/about",
+  "title": "Rasa NLU: Language Understanding for Chatbots and AI assistants",
+  "description": "Rasa NLU is an open-source natural language processing tool for intent classification, response retrieval and",
+  "source": "@site/docs/nlu/about.mdx",
+  "permalink": "/nlu/about",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/nlu/about.mdx",
+  "sidebar_label": "Rasa NLU: Language Understanding for Chatbots and AI assistants",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Cloud Storage",
+    "permalink": "/user-guide/cloud-storage"
+  },
+  "next": {
+    "title": "Using NLU Only",
+    "permalink": "/nlu/using-nlu-only"
+  }
+}

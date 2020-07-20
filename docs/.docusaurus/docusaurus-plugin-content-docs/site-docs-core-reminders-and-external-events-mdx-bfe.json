@@ -1,0 +1,18 @@
+{
+  "id": "core/reminders-and-external-events",
+  "title": "Reminders and External Events",
+  "description": "The ReminderScheduled event and the",
+  "source": "@site/docs/core/reminders-and-external-events.mdx",
+  "permalink": "/core/reminders-and-external-events",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/core/reminders-and-external-events.mdx",
+  "sidebar_label": "Reminders and External Events",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Actions",
+    "permalink": "/core/actions"
+  },
+  "next": {
+    "title": "Policies",
+    "permalink": "/core/policies"
+  }
+}

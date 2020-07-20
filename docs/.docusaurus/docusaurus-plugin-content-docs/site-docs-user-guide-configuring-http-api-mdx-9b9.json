@@ -1,0 +1,18 @@
+{
+  "id": "user-guide/configuring-http-api",
+  "title": "Configuring the HTTP API",
+  "description": "Using Rasa’s HTTP API",
+  "source": "@site/docs/user-guide/configuring-http-api.mdx",
+  "permalink": "/user-guide/configuring-http-api",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/configuring-http-api.mdx",
+  "sidebar_label": "Configuring the HTTP API",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Validate Data",
+    "permalink": "/user-guide/validate-files"
+  },
+  "next": {
+    "title": "Deploying Your Rasa Assistant",
+    "permalink": "/user-guide/how-to-deploy"
+  }
+}

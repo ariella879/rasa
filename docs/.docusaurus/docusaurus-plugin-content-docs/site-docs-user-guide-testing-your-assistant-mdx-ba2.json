@@ -1,0 +1,18 @@
+{
+  "id": "user-guide/testing-your-assistant",
+  "title": "Testing Your Assistant",
+  "description": "If you are looking to tune the hyperparameters of your NLU model,",
+  "source": "@site/docs/user-guide/testing-your-assistant.mdx",
+  "permalink": "/user-guide/testing-your-assistant",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/testing-your-assistant.mdx",
+  "sidebar_label": "Testing Your Assistant",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Messaging and Voice Channels",
+    "permalink": "/user-guide/messaging-and-voice-channels"
+  },
+  "next": {
+    "title": "Setting up CI/CD",
+    "permalink": "/user-guide/setting-up-ci-cd"
+  }
+}

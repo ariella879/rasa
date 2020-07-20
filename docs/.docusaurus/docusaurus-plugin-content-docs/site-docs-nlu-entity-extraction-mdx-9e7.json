@@ -1,0 +1,18 @@
+{
+  "id": "nlu/entity-extraction",
+  "title": "Entity Extraction",
+  "description": "Entity extraction involves parsing user messages for required pieces of information. Rasa Open Source",
+  "source": "@site/docs/nlu/entity-extraction.mdx",
+  "permalink": "/nlu/entity-extraction",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/nlu/entity-extraction.mdx",
+  "sidebar_label": "Entity Extraction",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Components",
+    "permalink": "/nlu/components"
+  },
+  "next": {
+    "title": "The Rasa Core Dialogue Engine",
+    "permalink": "/core/about"
+  }
+}

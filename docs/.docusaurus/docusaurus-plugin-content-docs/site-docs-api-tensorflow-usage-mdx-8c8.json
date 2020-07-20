@@ -1,0 +1,18 @@
+{
+  "id": "api/tensorflow_usage",
+  "title": "TensorFlow Configuration",
+  "description": "TensorFlow allows configuring options in the runtime environment via",
+  "source": "@site/docs/api/tensorflow_usage.mdx",
+  "permalink": "/api/tensorflow_usage",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/api/tensorflow_usage.mdx",
+  "sidebar_label": "TensorFlow Configuration",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Featurization of Conversations",
+    "permalink": "/api/core-featurization"
+  },
+  "next": {
+    "title": "Migration Guide",
+    "permalink": "/migration-guide"
+  }
+}

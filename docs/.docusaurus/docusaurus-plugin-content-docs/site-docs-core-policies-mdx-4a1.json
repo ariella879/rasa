@@ -1,0 +1,18 @@
+{
+  "id": "core/policies",
+  "title": "Policies",
+  "description": "Configuring Policies",
+  "source": "@site/docs/core/policies.mdx",
+  "permalink": "/core/policies",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/core/policies.mdx",
+  "sidebar_label": "Policies",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Reminders and External Events",
+    "permalink": "/core/reminders-and-external-events"
+  },
+  "next": {
+    "title": "Slots",
+    "permalink": "/core/slots"
+  }
+}

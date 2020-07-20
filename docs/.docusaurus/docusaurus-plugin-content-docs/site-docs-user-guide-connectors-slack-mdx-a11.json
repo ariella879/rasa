@@ -1,0 +1,9 @@
+{
+  "id": "user-guide/connectors/slack",
+  "title": "Slack",
+  "description": "You first have to create a Slack app to get credentials.",
+  "source": "@site/docs/user-guide/connectors/slack.mdx",
+  "permalink": "/user-guide/connectors/slack",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/connectors/slack.mdx",
+  "sidebar_label": "Slack"
+}

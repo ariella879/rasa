@@ -1,0 +1,18 @@
+{
+  "id": "user-guide/cloud-storage",
+  "title": "Cloud Storage",
+  "description": "Rasa supports using S3 ,",
+  "source": "@site/docs/user-guide/cloud-storage.mdx",
+  "permalink": "/user-guide/cloud-storage",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/cloud-storage.mdx",
+  "sidebar_label": "Cloud Storage",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Deploying Your Rasa Assistant",
+    "permalink": "/user-guide/how-to-deploy"
+  },
+  "next": {
+    "title": "Rasa NLU: Language Understanding for Chatbots and AI assistants",
+    "permalink": "/nlu/about"
+  }
+}

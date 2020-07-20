@@ -1,0 +1,18 @@
+{
+  "id": "user-guide/messaging-and-voice-channels",
+  "title": "Messaging and Voice Channels",
+  "description": "To make your assistant available on a messaging platform you need to provide credentials",
+  "source": "@site/docs/user-guide/messaging-and-voice-channels.mdx",
+  "permalink": "/user-guide/messaging-and-voice-channels",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/messaging-and-voice-channels.mdx",
+  "sidebar_label": "Messaging and Voice Channels",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Architecture",
+    "permalink": "/user-guide/architecture"
+  },
+  "next": {
+    "title": "Testing Your Assistant",
+    "permalink": "/user-guide/testing-your-assistant"
+  }
+}

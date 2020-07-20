@@ -1,0 +1,18 @@
+{
+  "id": "dialogue-elements/dialogue-elements",
+  "title": "Dialogue Elements",
+  "description": "Dialogue elements are common conversation patterns.",
+  "source": "@site/docs/dialogue-elements/dialogue-elements.mdx",
+  "permalink": "/dialogue-elements/dialogue-elements",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/dialogue-elements/dialogue-elements.mdx",
+  "sidebar_label": "Dialogue Elements",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Knowledge Base Actions",
+    "permalink": "/core/knowledge-bases"
+  },
+  "next": {
+    "title": "Small Talk",
+    "permalink": "/dialogue-elements/small-talk"
+  }
+}

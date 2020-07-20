@@ -1,0 +1,18 @@
+{
+  "id": "api/tracker-stores",
+  "title": "Tracker Stores",
+  "description": "All conversations are stored within a tracker store.",
+  "source": "@site/docs/api/tracker-stores.mdx",
+  "permalink": "/api/tracker-stores",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/api/tracker-stores.mdx",
+  "sidebar_label": "Tracker Stores",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Tracker",
+    "permalink": "/api/tracker"
+  },
+  "next": {
+    "title": "Event Brokers",
+    "permalink": "/api/event-brokers"
+  }
+}

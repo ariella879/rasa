@@ -1,0 +1,18 @@
+{
+  "id": "core/stories",
+  "title": "Stories",
+  "description": "Rasa stories are a form of training data used to train the Rasa’s dialogue management models.",
+  "source": "@site/docs/core/stories.mdx",
+  "permalink": "/core/stories",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/core/stories.mdx",
+  "sidebar_label": "Stories",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "The Rasa Core Dialogue Engine",
+    "permalink": "/core/about"
+  },
+  "next": {
+    "title": "Domains",
+    "permalink": "/core/domains"
+  }
+}

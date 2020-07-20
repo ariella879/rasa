@@ -1,0 +1,18 @@
+{
+  "id": "user-guide/installation",
+  "title": "Installation",
+  "description": "Quick Installation",
+  "source": "@site/docs/user-guide/installation.mdx",
+  "permalink": "/user-guide/installation",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/installation.mdx",
+  "sidebar_label": "Installation",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Build contextual chatbots and AI assistants with Rasa",
+    "permalink": "/index"
+  },
+  "next": {
+    "title": "Tutorial: Rasa Basics",
+    "permalink": "/user-guide/rasa-tutorial"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "core/responses",
+  "title": "Responses",
+  "description": "If you want your assistant to respond to user messages, you need to manage",
+  "source": "@site/docs/core/responses.mdx",
+  "permalink": "/core/responses",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/core/responses.mdx",
+  "sidebar_label": "Responses",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Domains",
+    "permalink": "/core/domains"
+  },
+  "next": {
+    "title": "Actions",
+    "permalink": "/core/actions"
+  }
+}

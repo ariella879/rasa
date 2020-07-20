@@ -1,0 +1,18 @@
+{
+  "id": "api/event-brokers",
+  "title": "Event Brokers",
+  "description": "An event broker allows you to connect your running assistant to other services that process the data coming",
+  "source": "@site/docs/api/event-brokers.mdx",
+  "permalink": "/api/event-brokers",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/api/event-brokers.mdx",
+  "sidebar_label": "Event Brokers",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Tracker Stores",
+    "permalink": "/api/tracker-stores"
+  },
+  "next": {
+    "title": "Lock Stores",
+    "permalink": "/api/lock-stores"
+  }
+}

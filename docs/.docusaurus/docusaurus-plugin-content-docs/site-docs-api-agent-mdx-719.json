@@ -1,0 +1,18 @@
+{
+  "id": "api/agent",
+  "title": "Agent",
+  "description": "- SKIPPED CLASS DOCUMENTATION -",
+  "source": "@site/docs/api/agent.mdx",
+  "permalink": "/api/agent",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/api/agent.mdx",
+  "sidebar_label": "Agent",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Jupyter Notebooks",
+    "permalink": "/api/jupyter-notebooks"
+  },
+  "next": {
+    "title": "Custom NLU Components",
+    "permalink": "/api/custom-nlu-components"
+  }
+}

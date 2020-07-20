@@ -1,0 +1,18 @@
+{
+  "id": "user-guide/building-assistants",
+  "title": "Tutorial: Building Assistants",
+  "description": "After following the basics of setting up an assistant in the Rasa Tutorial, we’ll",
+  "source": "@site/docs/user-guide/building-assistants.mdx",
+  "permalink": "/user-guide/building-assistants",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/building-assistants.mdx",
+  "sidebar_label": "Tutorial: Building Assistants",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Tutorial: Rasa Basics",
+    "permalink": "/user-guide/rasa-tutorial"
+  },
+  "next": {
+    "title": "Command Line Interface",
+    "permalink": "/user-guide/command-line-interface"
+  }
+}

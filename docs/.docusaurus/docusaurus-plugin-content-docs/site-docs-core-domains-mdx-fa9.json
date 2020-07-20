@@ -1,0 +1,18 @@
+{
+  "id": "core/domains",
+  "title": "Domains",
+  "description": "The Domain defines the universe in which your assistant operates.",
+  "source": "@site/docs/core/domains.mdx",
+  "permalink": "/core/domains",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/core/domains.mdx",
+  "sidebar_label": "Domains",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Stories",
+    "permalink": "/core/stories"
+  },
+  "next": {
+    "title": "Responses",
+    "permalink": "/core/responses"
+  }
+}

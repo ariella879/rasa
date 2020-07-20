@@ -1,0 +1,18 @@
+{
+  "id": "api/core-featurization",
+  "title": "Featurization of Conversations",
+  "description": "In order to apply machine learning algorithms to conversational AI, we need",
+  "source": "@site/docs/api/core-featurization.mdx",
+  "permalink": "/api/core-featurization",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/api/core-featurization.mdx",
+  "sidebar_label": "Featurization of Conversations",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Training Data Importers",
+    "permalink": "/api/training-data-importers"
+  },
+  "next": {
+    "title": "TensorFlow Configuration",
+    "permalink": "/api/tensorflow_usage"
+  }
+}

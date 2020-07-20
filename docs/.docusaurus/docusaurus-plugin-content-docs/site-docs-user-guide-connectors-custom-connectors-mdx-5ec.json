@@ -1,0 +1,9 @@
+{
+  "id": "user-guide/connectors/custom-connectors",
+  "title": "Custom Connectors",
+  "description": "You can also implement your own custom channel. You can",
+  "source": "@site/docs/user-guide/connectors/custom-connectors.mdx",
+  "permalink": "/user-guide/connectors/custom-connectors",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/user-guide/connectors/custom-connectors.mdx",
+  "sidebar_label": "Custom Connectors"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "api/training-data-importers",
+  "title": "Training Data Importers",
+  "description": "By default, you can use command line arguments to specify where Rasa should look",
+  "source": "@site/docs/api/training-data-importers.mdx",
+  "permalink": "/api/training-data-importers",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/api/training-data-importers.mdx",
+  "sidebar_label": "Training Data Importers",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Lock Stores",
+    "permalink": "/api/lock-stores"
+  },
+  "next": {
+    "title": "Featurization of Conversations",
+    "permalink": "/api/core-featurization"
+  }
+}

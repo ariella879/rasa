@@ -1,0 +1,18 @@
+{
+  "id": "dialogue-elements/guiding-users",
+  "title": "Guiding Users",
+  "description": "Implicit Confirmation",
+  "source": "@site/docs/dialogue-elements/guiding-users.mdx",
+  "permalink": "/dialogue-elements/guiding-users",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/dialogue-elements/guiding-users.mdx",
+  "sidebar_label": "Guiding Users",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Completing Tasks",
+    "permalink": "/dialogue-elements/completing-tasks"
+  },
+  "next": {
+    "title": "Action Server",
+    "permalink": "/api/action-server"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "core/slots",
+  "title": "Slots",
+  "description": "What are slots?",
+  "source": "@site/docs/core/slots.mdx",
+  "permalink": "/core/slots",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/core/slots.mdx",
+  "sidebar_label": "Slots",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Policies",
+    "permalink": "/core/policies"
+  },
+  "next": {
+    "title": "Forms",
+    "permalink": "/core/forms"
+  }
+}

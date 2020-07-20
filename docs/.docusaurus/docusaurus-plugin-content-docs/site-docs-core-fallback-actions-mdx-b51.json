@@ -1,0 +1,18 @@
+{
+  "id": "core/fallback-actions",
+  "title": "Fallback Actions",
+  "description": "Sometimes you want to revert to a fallback action, such as replying,",
+  "source": "@site/docs/core/fallback-actions.mdx",
+  "permalink": "/core/fallback-actions",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/core/fallback-actions.mdx",
+  "sidebar_label": "Fallback Actions",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Interactive Learning",
+    "permalink": "/core/interactive-learning"
+  },
+  "next": {
+    "title": "Knowledge Base Actions",
+    "permalink": "/core/knowledge-bases"
+  }
+}

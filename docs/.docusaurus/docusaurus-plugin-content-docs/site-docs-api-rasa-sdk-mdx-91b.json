@@ -1,0 +1,18 @@
+{
+  "id": "api/rasa-sdk",
+  "title": "Rasa SDK",
+  "description": "Rasa SDK provides the tools you need to write custom actions in python.",
+  "source": "@site/docs/api/rasa-sdk.mdx",
+  "permalink": "/api/rasa-sdk",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/api/rasa-sdk.mdx",
+  "sidebar_label": "Rasa SDK",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Custom NLU Components",
+    "permalink": "/api/custom-nlu-components"
+  },
+  "next": {
+    "title": "Events",
+    "permalink": "/api/events"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "changelog",
+  "title": "Rasa Open Source Change Log",
+  "description": "All notable changes to this project will be documented in this file.",
+  "source": "@site/docs/changelog.mdx",
+  "permalink": "/changelog",
+  "editUrl": "https://github.com/rasahq/rasa/edit/master/docs/docs/changelog.mdx",
+  "sidebar_label": "Rasa Open Source Change Log",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Migration Guide",
+    "permalink": "/migration-guide"
+  },
+  "next": {
+    "title": "Rasa as open source alternative to Google Dialogflow - Migration Guide",
+    "permalink": "/migrate-from/google-dialogflow-to-rasa"
+  }
+}
